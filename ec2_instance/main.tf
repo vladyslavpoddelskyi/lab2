@@ -11,11 +11,8 @@ terraform {
 # Configure AWS provider and creds
 provider "aws" {
  	region	= "us-east-1"
-	access_key = "ASIAZI2LHHY3IAYX26ON"
-	secret_key = "rxFYyogTrqnTTD5q7VR8Wr9/tksV/dBeTfqgjnO1"
-	token = "IQoJb3JpZ2luX2VjELH//////////wEaCXVzLXdlc3QtMiJIMEYCIQClLf4y2Dtxg6N2T4yMtSMMCYY3GhDAszjtiToqmFsRyQIhAJn599WZj0jiC5me3QVscqXs4G2fRCX0G9IspKxwr6DRKq0CCEoQABoMNjM3NDIzNTMzNjIyIgw69PAydDZ6WnmES2wqigIbCiOidjUGoCno1wIBESs32dt0RqG5D5uqpAjep88PJcxVQtlVZlGL0E6iEH2Q6Hm/Gz8E3XKjjPKrgL8HSCqjEy7Y2U61Y7frGevqzox2PpEiZuHmFVZnFhWkhbq5l7VkrScTuaGuucd46AiOoCQ/ByZjAjD+9yn07XWFmOIDScRs4TOPJK15+hHZAyPlmPpv4gRSZx8dvqI972tacxnMxC/I71B5SrD8TBcLzBYEa4aEj53qm0bIj1GBuhZKoDVp3HouoZbCALhlDwXmwb6RZJkrNj3t9ulbxB6mKai9h+A3i0x42srzTjsUPp1Qv9dJQTWTDFTH3QdvtwSC4WshARaBTHfBBU7+ojDQ1ZyzBjqcAVOHJLI5btoU0mEKjz2mxeR4PoJRND/pPuFzArz9RaUDBB61aTpxzi8GkOAFPgPtSuHRphdP7AvCaqlidwnppYh1OkkVha2y/zcjT2kPDmkj0Oday6NHb8RXXjuZjCKgOaG6TFQA69qB/DvMzQcvJg0Qdxtgi56DidDSAYv3UYygbaCMHiDcs5937Hg7qT9DlBzM9//aK44AEhoHEg=="
+	
 }
-
 
 
 
