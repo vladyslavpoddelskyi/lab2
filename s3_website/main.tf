@@ -11,9 +11,6 @@ terraform {
 # Configure AWS provider and creds
 provider "aws" {
 	region = "us-east-1"
-	shared_config_files = ["C:/Users/podde/.aws/config.txt"]
-	shared_credentials_files = ["C:/Users/podde/.aws/credentials.txt"]
-	profile = "default"
 }
 
 # Creating bucket
